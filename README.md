@@ -1,8 +1,5 @@
 # Tugas Praktikum Pemrograman Berbasis Objek Kelas A - Pertemuan 10
 
-## Deskripsi Tugas
-
-Pada tugas praktikum kali ini, Anda diminta untuk mengimplementasikan dua fitur tambahan pada sistem perbankan berbasis objek:
 
 ### 1. Fitur Ubah PIN
 
