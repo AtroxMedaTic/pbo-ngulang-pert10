@@ -15,7 +15,7 @@
 3. **Validasi bahwa kedua input PIN baru cocok.**
 4. **Perbarui PIN jika validasi berhasil.**
 
-**Tampilan Menu:**
+**Tampilan Kode:**
 
 ![image](https://github.com/user-attachments/assets/915e65e1-4738-41e4-8cf4-44374738f08d)
 
@@ -33,6 +33,6 @@
 2. Modifikasi method **`execute()`** dalam kelas **Withdrawal** untuk memeriksa apakah saldo setelah penarikan tidak kurang dari saldo minimal.
 3. Jika saldo tidak mencukupi, tampilkan pesan kesalahan.
 
-**Tampilan Menu:**
+**Tampilan Kode:**
 
 ![image](https://github.com/user-attachments/assets/b2cf4a92-8957-405e-9840-ff6e745b8d79)
